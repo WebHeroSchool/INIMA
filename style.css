@@ -1,7 +1,7 @@
-.header{
-  background:black;
+.body{
+font-family: 'Pacifico', cursive;
+font-family: 'Comfortaa', cursive;  
   }
 .header__h1{
-   color:white;
-   text-align:center;
+font-family: 'Libre Caslon Display', serif;
  }
